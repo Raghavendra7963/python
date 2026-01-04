@@ -1,5 +1,8 @@
 a=5
 b=6
-a,b=b,a
+c=7
+a,b,c=b,c,a
 print(a)
 print(b)
+print(c)
+
